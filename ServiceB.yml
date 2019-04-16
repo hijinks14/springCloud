@@ -1,2 +1,4 @@
+greeting: How are you doing?
+
 server:
   port: 8091
