@@ -1,3 +1,5 @@
+greeting: How is it going?
+
 server:
   port: 8090
   
