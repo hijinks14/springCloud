@@ -1,4 +1,3 @@
-greeting: Hello from ServiceA (git) with @RefreshScope -- test1
 server:
   port: 8090
   
